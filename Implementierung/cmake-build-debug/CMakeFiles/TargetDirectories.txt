@@ -1,0 +1,3 @@
+C:/Users/Viki/CLionProjects/Implementierung/cmake-build-debug/CMakeFiles/Implementierung.dir
+C:/Users/Viki/CLionProjects/Implementierung/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Viki/CLionProjects/Implementierung/cmake-build-debug/CMakeFiles/rebuild_cache.dir
